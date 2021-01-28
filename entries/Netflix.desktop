@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=sh -c 'exec "$HOME/.streaming/app/launch.sh" Netflix'
+Icon=Netflix
+Name=Netflix
+Terminal=false
+Type=Application
