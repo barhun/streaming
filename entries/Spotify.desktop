@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=sh -c 'exec "$HOME/.streaming/app/launch.sh" Spotify'
+Icon=Spotify
+Name=Spotify
+Terminal=false
+Type=Application

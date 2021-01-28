@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=sh -c 'exec "$HOME/.streaming/app/launch.sh" YouTube'
+Icon=YouTube
+Name=YouTube
+Terminal=false
+Type=Application

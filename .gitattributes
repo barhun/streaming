@@ -1,0 +1,2 @@
+# Do not auto detect text files nor perform LF normalization
+* -text
